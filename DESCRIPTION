@@ -1,0 +1,11 @@
+Package: SeriDilut
+Type: Package
+Title: Serial concentration calculation
+Version: beta 1
+Author: Chen Liu
+Maintainer: Same as author
+Description: Used to calculate 10 concentrations within a serial dilution, and
+generate a conc. plot.
+License: MIT License
+Encoding: UTF-8
+LazyData: true
